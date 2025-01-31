@@ -1,0 +1,1 @@
+The 'Commands' folder holds all final commands for the guild bot
