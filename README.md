@@ -1,10 +1,10 @@
 # Java Discord Bot
-A simple discord bot running on java
->*Created, ran, and tested on eclipse IDE*
+Early experiment: a simple Discord bot written in Java
+>*Created, ran, and tested on Eclipse IDE*
 
 
-## Details
-In the beginning of 2022 a friend asked if I could make a discord bot, so I made one using Java's net.dv8tion.jda.
+## Overview
+In early 2022, a friend asked if I could make a Discord bot, so I made one using Java's net.dv8tion.jda. This was my first attempt at a Discord bot and is not actively maintained.
 
 
 ## Getting started
@@ -22,9 +22,10 @@ Download all files and run in your preferred jave IDE
 The sql was used as a inventory for users and the command where made to edit the data base.
 
 
-## Contributing
-Go nuts, I have no use for this program and I have found better methods for discord bots
+---
+> **NOT MAINTAINED:** This was an early experiment and is not recommended for production use. Provided for reference only.
+---
 
 
-## Licensing
-The code in this project is licensed under MIT license.
+## License
+The code in this project is licensed under the MIT license.
